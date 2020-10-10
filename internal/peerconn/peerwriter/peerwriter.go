@@ -8,9 +8,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/cenkalti/rain/internal/logger"
-	"github.com/cenkalti/rain/internal/peerconn/peerreader"
-	"github.com/cenkalti/rain/internal/peerprotocol"
+	"github.com/panzarasa/rain/internal/logger"
+	"github.com/panzarasa/rain/internal/peerconn/peerreader"
+	"github.com/panzarasa/rain/internal/peerprotocol"
 	"github.com/juju/ratelimit"
 )
 

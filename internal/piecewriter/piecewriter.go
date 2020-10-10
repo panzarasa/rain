@@ -3,9 +3,9 @@ package piecewriter
 import (
 	"crypto/sha1" // nolint: gosec
 
-	"github.com/cenkalti/rain/internal/bufferpool"
-	"github.com/cenkalti/rain/internal/piece"
-	"github.com/cenkalti/rain/internal/semaphore"
+	"github.com/panzarasa/rain/internal/bufferpool"
+	"github.com/panzarasa/rain/internal/piece"
+	"github.com/panzarasa/rain/internal/semaphore"
 	"github.com/rcrowley/go-metrics"
 )
 

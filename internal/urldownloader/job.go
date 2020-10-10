@@ -1,7 +1,7 @@
 package urldownloader
 
 import (
-	"github.com/cenkalti/rain/internal/piece"
+	"github.com/panzarasa/rain/internal/piece"
 )
 
 type downloadJob struct {

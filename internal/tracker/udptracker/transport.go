@@ -14,10 +14,10 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff"
-	"github.com/cenkalti/rain/internal/blocklist"
-	"github.com/cenkalti/rain/internal/logger"
-	"github.com/cenkalti/rain/internal/resolver"
-	"github.com/cenkalti/rain/internal/tracker"
+	"github.com/panzarasa/rain/internal/blocklist"
+	"github.com/panzarasa/rain/internal/logger"
+	"github.com/panzarasa/rain/internal/resolver"
+	"github.com/panzarasa/rain/internal/tracker"
 	"github.com/zeebo/bencode"
 )
 

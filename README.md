@@ -4,9 +4,9 @@ rain
 BitTorrent client and library in Go. Running in production at [put.io](https://put.io).
 
 [![Build Status](https://travis-ci.org/cenkalti/rain.svg?branch=master)](https://travis-ci.org/cenkalti/rain)
-[![GoDoc](https://godoc.org/github.com/cenkalti/rain?status.svg)](https://pkg.go.dev/github.com/cenkalti/rain/torrent?tab=doc)
-[![GitHub Release](https://img.shields.io/github/release/cenkalti/rain.svg)](https://github.com/cenkalti/rain/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cenkalti/rain)](https://goreportcard.com/report/github.com/cenkalti/rain)
+[![GoDoc](https://godoc.org/github.com/panzarasa/rain?status.svg)](https://pkg.go.dev/github.com/panzarasa/rain/torrent?tab=doc)
+[![GitHub Release](https://img.shields.io/github/release/cenkalti/rain.svg)](https://github.com/panzarasa/rain/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/panzarasa/rain)](https://goreportcard.com/report/github.com/panzarasa/rain)
 
 Features
 --------
@@ -38,7 +38,7 @@ brew tap cenkalti/rain
 brew install rain
 ```
 
-Otherwise, get the latest binary from [releases page](https://github.com/cenkalti/rain/releases).
+Otherwise, get the latest binary from [releases page](https://github.com/panzarasa/rain/releases).
 
 Usage as torrent client
 -----------------------
@@ -67,9 +67,9 @@ for range time.Tick(time.Second) {
 }
 ```
 
-More complete example can be found under `handleDownload` function at [main.go](https://github.com/cenkalti/rain/blob/master/main.go) file.
+More complete example can be found under `handleDownload` function at [main.go](https://github.com/panzarasa/rain/blob/master/main.go) file.
 
-See [package documentation](https://pkg.go.dev/github.com/cenkalti/rain/torrent?tab=doc) for complete API.
+See [package documentation](https://pkg.go.dev/github.com/panzarasa/rain/torrent?tab=doc) for complete API.
 
 Difference from other clients
 -----------------------------

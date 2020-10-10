@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/cenkalti/rain/internal/tracker"
+	"github.com/panzarasa/rain/internal/tracker"
 )
 
 type udpMessage interface {

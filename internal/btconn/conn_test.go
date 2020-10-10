@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cenkalti/rain/internal/mse"
+	"github.com/panzarasa/rain/internal/mse"
 )
 
 var (

@@ -3,7 +3,7 @@ package announcer
 import (
 	"time"
 
-	"github.com/cenkalti/rain/internal/logger"
+	"github.com/panzarasa/rain/internal/logger"
 )
 
 // DHTAnnouncer runs a function periodically to announce the Torrent to DHT network.

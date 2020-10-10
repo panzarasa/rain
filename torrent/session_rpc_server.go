@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/cenkalti/rain/internal/logger"
+	"github.com/panzarasa/rain/internal/logger"
 	"github.com/powerman/rpc-codec/jsonrpc2"
 )
 

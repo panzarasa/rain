@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cenkalti/rain/internal/jsonutil"
-	"github.com/cenkalti/rain/internal/rpctypes"
-	"github.com/cenkalti/rain/rainrpc"
+	"github.com/panzarasa/rain/internal/jsonutil"
+	"github.com/panzarasa/rain/internal/rpctypes"
+	"github.com/panzarasa/rain/rainrpc"
 	"github.com/jroimartin/gocui"
 )
 
