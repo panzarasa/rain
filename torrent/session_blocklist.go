@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/cenkalti/backoff/v3"
+	"github.com/cenkalti/backoff"
 	"go.etcd.io/bbolt"
 )
 

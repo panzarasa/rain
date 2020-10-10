@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/br0xen/termbox-util v0.0.0-20200220160819-dc6d6950ba00 // indirect
-	github.com/cenkalti/backoff/v3 v3.2.2
+	github.com/cenkalti/backoff v2.1.1+incompatible
 	github.com/cenkalti/boltbrowser v0.0.0-20190327195521-ebed13c76690
 	github.com/cenkalti/log v0.0.0-20180808170110-e1cf6d40cbc3
 	github.com/chihaya/chihaya v1.0.1-0.20191017040149-0a420fe05344
